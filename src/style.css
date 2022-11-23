@@ -1,0 +1,46 @@
+body {
+  background: rgb(163, 163, 221);
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+.description {
+  font-weight: lighter;
+  padding: 50px;
+}
+
+.photo-croissant {
+  max-width: 80%;
+  border-radius: 15px;
+  display: block;
+  margin: 30px auto;
+}
+.contact {
+  text-align: center;
+  font-family: monospace;
+}
+.link-email {
+  color: rgb(78, 77, 77);
+}
+footer {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+footer a {
+  text-align: center;
+  color: rgb(213, 157, 3);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bolder;
+  border: 1px solid rgb(213, 157, 3);
+  border-radius: 15px;
+  padding: 12px;
+}
+
+footer a:hover {
+  color: rgb(86, 86, 211);
+  border: 1px solid rgb(86, 86, 211);
+}
